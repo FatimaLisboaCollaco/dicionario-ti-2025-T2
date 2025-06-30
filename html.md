@@ -1,0 +1,11 @@
+HTML - é a sigla para HyperText Markup Language, ou em português, Linguagem de Marcação de Hipertexto. É a linguagem usada para criar e estruturar páginas na web. Com HTML, você define elementos como títulos, parágrafos, imagens, links e muito mais — é como o esqueleto de um site
+Definição: HTML, ou HyperText Markup Language, é uma linguagem de marcação usada para estruturar o conteúdo de páginas na web. Isso significa que, com HTML, você pode organizar textos, imagens, vídeos, links e outros elementos para que sejam exibidos corretamente em navegadores como Chrome, Firefox ou Safari.
+Ele não é uma linguagem de programação (como JavaScript), mas sim uma forma de “marcar” o conteúdo com tags que indicam o papel de cada parte da página — por exemplo, <h1> para títulos, <p> para parágrafos e <a> para links.
+Exemplo de uso: A primeira coisa que acontece é a definição do tipo de documento como HTML5, o que garante que o navegador entenda corretamente o conteúdo da página. Dentro da página, há uma seção de cabeçalho,onde são definidos os metados, como a codificação de caracteres e como o site será exibido em dispositivos móveis.
+Logo abaixo, vem o conteúdo visível da página, que começa com um título principal, dizendo "Bem-vindo ao meu site!'. Em seguida, há uma explicação breve em um parágrafo, dizendo que esta página serve como exemplo de HTML básico.
+A página continua com uma lista não ordenada, onde três itens são apresentados:"item 1", 'item 2", "item 3". Depois , há um subtítulo explicando o uso de negrito e itálico, com um parágrafo que descreve as tags que fazem esse formato: negrito e itálico. O texto também menciona o código HTML dentro de uma página, usando as tags apropriadas.
+Há um link para o Google, que, quando clicado, abre a página em uma nova aba do navegador.
+A estrutura da página é finalizada com o encerramento do conteúdo, de modo que o navegador saiba onde o conteúdo da página termina. 
+Termos relacionados: Tag, Elemento, Atributo, DOCTYPE, Head, Body, Hyperlink, Tag Semântica, FOrmulário(Form), Lista, Tabela, Mega Tag, Iframe, Comentários, CSS(Cascading Style Sheets), javaScript.
+
+Contribuidor: mariah e yasmin
