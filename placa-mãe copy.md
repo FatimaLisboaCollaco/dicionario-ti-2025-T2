@@ -19,4 +19,4 @@ Ela controla o tempo e a sincronização de todos os componentes, garantindo que
 Suporte ao sistema operacional:
 A placa-mãe contém o BIOS ou UEFI, que são programas responsáveis por iniciar o computador e carregar o sistema operacional.
 
-contribuidor: Matheus Gouveia de Souza.
+contribuidor: Matheus Gouveia de Souza.:
