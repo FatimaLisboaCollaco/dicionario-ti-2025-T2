@@ -3,4 +3,4 @@ Definição:
 Exemplo de uso:
 Termos relacionados:
 
-Contribuidor: seu nome
+Contribuidor: Fatima Lisboa Collaço
